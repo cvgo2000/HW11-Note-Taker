@@ -17,10 +17,12 @@ Create notes for your personal needs via Express.js.
 ## Contributing
 Contact the author for any information about contributions.
 ## Tests
-
+After cloning this repository to your local machine and have installed required packages, run "node server.js" in your terminal to run the script and open a PORT, then open a window to your browser and navigate to http://localhost:8080/ to run the Note Taker app.
 ## License
 The MIT License grants permission, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
 ## Questions
 Should you have any questions regarding this project please open an issue or contact the creator at the below email address.
+
+
 [GitHub - cvgo2000](https://github.com/cvgo2000)
 [cvgo2000@gmail.com](cvgo2000@gmail.com)
