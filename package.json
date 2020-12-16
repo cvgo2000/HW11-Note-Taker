@@ -1,17 +1,28 @@
 {
-  "name": "note-taker",
+  "name": "HW11-Note-Taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "uniqid": "^5.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvgo2000/HW11-Note-Taker.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cuid": "^2.1.8",
-    "express": "^4.16.4",
-    "uniqid": "^5.2.0"
-  }
+  "bugs": {
+    "url": "https://github.com/cvgo2000/HW11-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/cvgo2000/HW11-Note-Taker#readme"
 }
