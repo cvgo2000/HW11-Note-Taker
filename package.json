@@ -18,11 +18,16 @@
     "type": "git",
     "url": "git+https://github.com/cvgo2000/HW11-Note-Taker.git"
   },
-  "keywords": [],
+  "keywords": [
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cvgo2000/HW11-Note-Taker/issues"
+  },
+  "engines": {
+    "node": "14.15.0"
   },
   "homepage": "https://github.com/cvgo2000/HW11-Note-Taker#readme"
 }
